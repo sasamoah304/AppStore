@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="http://localhost:8088/assets/webroot/sideloading/casey_x64.appinstaller"
+	Version="1.1.27.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainPackage
+		Name="Census.Mojo.Casey"
+		Version="1.1.27.0"
+		Publisher="E=zibin.yang@census.gov, CN=MOJO-CASEY, OU=ADEP, O=Census, S=Some-State, C=US"
+		Uri="http://localhost:8088/assets/webroot/sideloading/casey_1.1.27.0_x64_Debug_Test/casey_1.1.27.0_x64_Debug.msix"
+		ProcessorArchitecture="x64" />
+
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
