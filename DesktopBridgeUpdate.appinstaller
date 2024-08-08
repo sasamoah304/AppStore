@@ -6,63 +6,8 @@
 		Name="521ef060-1b92-4a21-a40d-92800b3be1b7"
 		Version="1.0.4.0"
 		Publisher="CN=asamo002"
-		Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/DesktopBridgeUpdate_1.0.4.0_x86_x64_arm.msixbundle" />
-	<Dependencies>
-		<Package
-			Name="Microsoft.NET.Native.Framework.2.2"
-			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-			ProcessorArchitecture="x86"
-			Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/Dependencies/x86/Microsoft.NET.Native.Framework.2.2.appx"
-			Version="2.2.29512.0" />
-		<Package
-			Name="Microsoft.NET.Native.Framework.2.2"
-			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-			ProcessorArchitecture="x64"
-			Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/Dependencies/x64/Microsoft.NET.Native.Framework.2.2.appx"
-			Version="2.2.29512.0" />
-		<Package
-			Name="Microsoft.NET.Native.Framework.2.2"
-			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-			ProcessorArchitecture="arm"
-			Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/Dependencies/arm/Microsoft.NET.Native.Framework.2.2.appx"
-			Version="2.2.29512.0" />
-		<Package
-			Name="Microsoft.NET.Native.Runtime.2.2"
-			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-			ProcessorArchitecture="x86"
-			Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/Dependencies/x86/Microsoft.NET.Native.Runtime.2.2.appx"
-			Version="2.2.28604.0" />
-		<Package
-			Name="Microsoft.NET.Native.Runtime.2.2"
-			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-			ProcessorArchitecture="x64"
-			Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/Dependencies/x64/Microsoft.NET.Native.Runtime.2.2.appx"
-			Version="2.2.28604.0" />
-		<Package
-			Name="Microsoft.NET.Native.Runtime.2.2"
-			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-			ProcessorArchitecture="arm"
-			Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/Dependencies/arm/Microsoft.NET.Native.Runtime.2.2.appx"
-			Version="2.2.28604.0" />
-		<Package
-			Name="Microsoft.VCLibs.140.00"
-			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-			ProcessorArchitecture="arm"
-			Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/Dependencies/arm/Microsoft.VCLibs.ARM.14.00.appx"
-			Version="14.0.30704.0" />
-		<Package
-			Name="Microsoft.VCLibs.140.00"
-			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-			ProcessorArchitecture="x64"
-			Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
-			Version="14.0.30704.0" />
-		<Package
-			Name="Microsoft.VCLibs.140.00"
-			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
-			ProcessorArchitecture="x86"
-			Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.14.00.appx"
-			Version="14.0.30704.0" />
-	</Dependencies>
+		Uri="http://localhost:8088/assets/webroot/sideloading/DesktopBridgeUpdate_1.0.4.0_x86_x64_arm.msixbundle" />
+
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
